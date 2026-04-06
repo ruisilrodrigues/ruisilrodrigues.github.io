@@ -25,24 +25,24 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Bordeaux, France"
+  employer         : "Inserm, Neurocentre Magendie"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rui.rodrigues@inserm.fr" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Iv2FPDAAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9343-745X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=rodrigues+rui+s&sort=date&size=200"
+  researchgate     : "https://www.researchgate.net/profile/Rui-Rodrigues-29?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 

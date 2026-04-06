@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Rui Rodrigues, PhD"
 title_separator          : "-"
 name                     : &name "Rui Rodrigues"
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rui Rodrigues, PhD"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Bordeaux, France"

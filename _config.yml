@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "rodrigues-rui-DSC_6726-p2.jpg"
   name             : "Rui Rodrigues, PhD"
-  pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         :  #
+  bio              : "⚡ Unshakable optimist, passionate about the world around him."
   location         : "Bordeaux, France"
   employer         : "Inserm, Neurocentre Magendie"
   email            : "rui.rodrigues@inserm.fr" 
